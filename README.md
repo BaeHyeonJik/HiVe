@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Anonymous repository for the submitted paper.
-=======
 # HiVe
 
 Official implementation of **HiVe: Hierarchical Soft Prompt Tuning for Multi-Task and Out-of-Domain Generalization**.
@@ -69,4 +66,3 @@ HiVe/
 ```
 
 ---
->>>>>>> 47005c5 (initial commit)

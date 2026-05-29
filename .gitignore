@@ -1,0 +1,5 @@
+__pycache__/
+data/
+outputs_mrqa
+outputs_summary
+*.log

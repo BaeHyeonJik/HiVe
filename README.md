@@ -1,6 +1,6 @@
 # HiVe
 
-Official implementation of **HiVe: Hierarchical Soft Prompt Tuning for Multi-Task and Out-of-Domain Generalization**.
+Official implementation of **HiVe: Beyond Static Prompts for Multitask Learning via Hierarchy-based Vertical Mixture-of-Experts**.
 
 ---
 

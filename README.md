@@ -11,9 +11,9 @@ pip install -r requirements.txt
 ```
 
 **Environment**
-- Python 3.10.18
-- PyTorch 2.8+
-- CUDA 12.6+
+- Python 3.10.19
+- PyTorch 2.9.1+cu130
+- CUDA 13.0
 
 ---
 

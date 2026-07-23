@@ -4,7 +4,7 @@ set -e
 
 OUTPUT_DIR="./outputs_mrqa"
 DATASET_NAME="MRQA"
-DEVICE="cuda:2"
+DEVICE="cuda:0"
 
 echo "[HiVe] Training on MRQA..."
 python train.py \

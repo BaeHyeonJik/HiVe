@@ -7,7 +7,7 @@ set -e
 
 OUTPUT_DIR="./outputs_summary"
 DATASET_NAME="summary"
-DEVICE="cuda:2"
+DEVICE="cuda:0"
 
 echo "[HiVe] Training on summary..."
 python train.py \
